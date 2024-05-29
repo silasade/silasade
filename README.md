@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-photo/various-computer-equipment-with-programming-code-screens-table-dark-room-cyber-security-concept-copy-space_236854-23136.jpg?w=826)](https://Makinde.io)
+[![MasterHead](https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&w=600)]()
 
 <h1 align="center">Hi 👋, I'm Silas</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
