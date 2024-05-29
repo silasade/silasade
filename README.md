@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&w=600)]()
+[![MasterHead](https://images.pexels.com/photos/614117/pexels-photo-614117.jpeg?auto=compress&cs=tinysrgb&w=600)]()
 
 <h1 align="center">Hi 👋, I'm Silas</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
