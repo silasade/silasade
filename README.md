@@ -1,4 +1,4 @@
-[![MasterHead](https://t4.ftcdn.net/jpg/04/62/30/03/240_F_462300307_WUftb6d2QUsfHp9PrWotSsUyvQc6ThwC.jpg)]()
+[![MasterHead](https://img.freepik.com/premium-photo/digital-technology-software-development-concept-coding-programmer-software-engineer-working-laptop-with-circuit-board-javascript-virtual-screen-internet-things-iot_184421-1973.jpg?w=900)]()
 
 <h1 align="center">Hi 👋, I'm Silas</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
